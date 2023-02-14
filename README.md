@@ -6,7 +6,7 @@ visual representation that depicts the relationships between structured data gro
 backbone of a hotel reservations system. It consists of subject areas such as customers,
 reservations, rooms, and payments, along with their data types, attributes, and properties.
 
-###The Business Process
+### The Business Process
 
 ● Customers can book one or more rooms at each time, from several hotels belonging to
 three different Hotel Chains.
