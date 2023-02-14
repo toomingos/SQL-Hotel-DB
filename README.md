@@ -1,5 +1,3 @@
-# SQL-Hotel-DB
-
 ## Introduction
 This report presents the definition of the business process of a Hotel Chain Booking System and
 visual representation that depicts the relationships between structured data groups that are the
